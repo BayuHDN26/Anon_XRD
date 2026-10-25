@@ -5,7 +5,7 @@ close all;
 %% =========================================================================
 % 1. READ RAW DATA FROM EXCEL
 % =========================================================================
-file_excel = '..\..\File_path\TiO2.txt';
+file_excel = '..\..\File_path\Ch.xlsx';
 
 try
     fprintf('Reading XRD data file: %s ...\n', file_excel);
